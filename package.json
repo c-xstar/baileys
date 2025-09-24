@@ -1,15 +1,15 @@
 {
-  "name": "@kagenoureal/zbail",
+  "name": "@c-xstar/baileys",
   "version": "10.0.2",
   "description": "A WebSockets library for interacting with WhatsApp Web",
   "keywords": [
     "whatsapp",
     "automation"
   ],
-  "homepage": "https://github.com/kagenouReal/Zbail",
+  "homepage": "https://github.com/c-xstar/baileys",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/kagenouReal/Zbail.git"
+    "url": "git+ssh://git@github.com/xstar/baileys.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
